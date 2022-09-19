@@ -7,7 +7,10 @@ exports.up = function(knex) {
       table.string('stock').notNullable();
       table.string('price').notNullable();
       table.string('sales').notNullable();
-      table.string('image').notNullable();
+      table
+        .string('image')
+        .notNullable()
+        .defaultTo('http://localhost:8080/image01.png');
       table.string('description').notNullable();
       table.string('roast').notNullable();
       table.string('type').notNullable();
