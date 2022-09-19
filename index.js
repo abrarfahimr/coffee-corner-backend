@@ -2,8 +2,9 @@ const express = require('express');
 const app = express();
 const cors = require('cors');
 require('dotenv').config();
-const productsRoute = require('./routes/productsRoute')
-const mysql = require('mysql');
+
+const productsRoute = require('./routes/productsRoute');
+const transactionRoute = require('./routes/transactionRoute');
 
 const PORT = process.env.PORT;
 
@@ -21,6 +22,7 @@ app.use(express.static("public"));
 
 //route to all products
 app.use('/products', productsRoute);
+app.use('/transactions', transactionRoute)
 
 //startup the local server. Change PORT to what is the value in respective env file.
 app.listen(PORT, () => {

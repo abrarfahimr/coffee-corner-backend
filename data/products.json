@@ -5,7 +5,13 @@
     "productID": "12471997",
     "stock": "2345",
     "price":"12.50",
-    "sales": "43"
+    "sales": "43",
+    "image": "http://localhost:8080/image01.png",
+    "description": "A lusciously creamy body and cozy sweetness make this coffee a hug in a mug, with just a hint of citrus aromatics to keep things interesting",
+    "roast": "Medium",
+    "type": "Arabica",
+    "body": "3",
+    "acidity": "3"
   },
   {
     "id": "f6cf7932-aa82-4e5a-a46c-414deebbe279",
@@ -13,7 +19,13 @@
     "productID": "79143639",
     "stock": "2436",
     "price": "15.00",
-    "sales": "28"
+    "sales": "28",
+    "image": "http://localhost:8080/image02.png",
+    "description": "Dark roasted, but you won't find any ash in this cup - only rich, full-bodied flavors that show off the hard work of the producers behind this blend",
+    "roast": "Dark",
+    "type": "Robusta",
+    "body": "4",
+    "acidity": "2"
   },
   {
     "id": "fd6501db-1df4-4260-abaa-8fa61deb90c2",
@@ -21,7 +33,13 @@
     "productID": "93712033",
     "stock": "1354",
     "price": "9.60",
-    "sales": "42"
+    "sales": "42",
+    "image": "http://localhost:8080/image03.png",
+    "description": "This (caffeinated) cozy cup brings you all the comfort you need in your morning routine: a smooth, rich body and deep chocolaty sweetness envelop notes of roasted walnut and hints of clove",
+    "roast": "Medium",
+    "type": "Arabica",
+    "body": "4",
+    "acidity": "3"
   },
   {
     "id": "548d6f4f-100e-44bc-a49f-495743bc8d17",
@@ -29,7 +47,13 @@
     "productID": "74781676",
     "stock": "1923",
     "price": "11.00",
-    "sales": "31"
+    "sales": "31",
+    "image": "http://localhost:8080/image04.png",
+    "description": "Caramely sweetness, a rich dark chocolaty body, and just a hint of roastiness make this coffee a perfect daily driver.",
+    "roast": "Light",
+    "type": "Robusta",
+    "body": "2",
+    "acidity": "3"
   },
   {
     "id": "a4fab96e-07af-4486-bf18-0facef75e6aa ",
@@ -37,7 +61,13 @@
     "productID": "19870465",
     "stock": "1344",
     "price": "8.50",
-    "sales": "32"
+    "sales": "32",
+    "image": "http://localhost:8080/image05.png",
+    "description": "You’re fancy, huh? So is this elevated take on the classic drip, blend. It’s carefully curated, seasonally rotating, and of course—cultured.",
+    "roast": "Medium",
+    "type": "Liberica",
+    "body": "5",
+    "acidity": "3"
   },
   {
     "id": "127fa07a-30a4-4fe2-9bc5-a6611a096f60",
@@ -45,7 +75,13 @@
     "productID": "27908167",
     "stock": "1689",
     "price": "8.50",
-    "sales": "16"
+    "sales": "16",
+    "image": "http://localhost:8080/image06.png",
+    "description": "Nutty and sweet, notes of toasted walnut shine alongside a chocolaty sweetness with a splash of juicy cherry acidity lingering in the background",
+    "roast": "Light",
+    "type": "Robusta",
+    "body": "3",
+    "acidity": "3"
   },
   {
     "id": "8fe56938-d6d8-4147-944b-b39f653d6d0b",
@@ -53,7 +89,13 @@
     "productID": "29939725",
     "stock": "6685",
     "price": "23.0",
-    "sales": "59"
+    "sales": "59",
+    "image": "http://localhost:8080/image07.png",
+    "description": "Big bodied and plenty sweet, this comforting cup features notes of dark chocolate and roasted walnuts alongside a dark caramel sweetness",
+    "roast": "Medium",
+    "type": "Arabica",
+    "body": "4",
+    "acidity": "4"
   },
   {
     "id": "836b6a65-2d75-4653-afb9-51c503a59bae",
@@ -61,7 +103,13 @@
     "productID": "87889741",
     "stock": "1692",
     "price": "17.00",
-    "sales": "69"
+    "sales": "69",
+    "image": "http://localhost:8080/image08.png",
+    "description": "Earthy-sweet tobacco notes draw from a deep, dark chocolaty sweetness, made extra cozy by its subtle clove spiciness",
+    "roast": "Dark",
+    "type": "Liberica",
+    "body": "2",
+    "acidity": "4"
   },
   {
     "id": "afeea147-7e95-4249-aad7-7bd49644513a",
@@ -69,7 +117,13 @@
     "productID": "16601086",
     "stock": "3790",
     "price": "24.50",
-    "sales": "91"
+    "sales": "91",
+    "image": "http://localhost:8080/image09.png",
+    "description": "Juicy notes of tangerine and a splash of green grape acidity are welcome additions to this cup's soft cocoa sweetness",
+    "roast": "Dark",
+    "type": "Liberica",
+    "body": "4",
+    "acidity": "2"
   },
   {
     "id": "8fae3157-29bf-480c-b48a-fac6d968f644",
@@ -77,6 +131,12 @@
     "productID": "61838840",
     "stock": "6854",
     "price": "25.00",
-    "sales": "28"
+    "sales": "28",
+    "image": "http://localhost:8080/image10.png",
+    "description": "Rich, sweet, smooth - this comforting cup reminds us of chocolaty fudge with a toffee swirl. Perfect on its own or with a splash of your favorite milk, we're pretty sure you'll love this one",
+    "roast": "Light",
+    "type": "Arabica",
+    "body": "3",
+    "acidity": "3"
   }
 ]
