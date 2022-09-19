@@ -6,7 +6,7 @@ require('dotenv').config();
 const productsRoute = require('./routes/productsRoute');
 const transactionRoute = require('./routes/transactionRoute');
 
-const PORT = process.env.PORT;
+const PORT = process.env.PORT ?? 8080;
 
 //CORS middleware
 app.use(cors());

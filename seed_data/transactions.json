@@ -1,7 +1,7 @@
 [
   {
-    "trackingID": "76763182",
-    "products":["Lava coffee","Top of The Mug"],
+    "tracking_id": "76763182",
+    "products":"Lava coffee-Top of The Mug",
     "customer": "Lexi Sullivan",
     "date": "March 18",
     "amount": "42.5",
@@ -9,8 +9,8 @@
     "status": "Pending"
   },
   {
-    "trackingID": "92557833",
-    "products": ["Egocoast Latte", "Top of The Mug"],
+    "tracking_id": "92557833",
+    "products": "Egocoast Latte-Top of The Mug",
     "customer": "Ranveer Whitney",
     "date": "March 17",
     "amount": "43",
@@ -18,8 +18,8 @@
     "status": "Pending"
   },
   {
-    "trackingID": "61029132",
-    "products": ["Lava Coffee"],
+    "tracking_id": "61029132",
+    "products": "Lava Coffee",
     "customer": "Sofia Enriquez",
     "date": "March 17",
     "amount": "17.5",
@@ -27,8 +27,8 @@
     "status": "Pending"
   },
   {
-    "trackingID": "63334364",
-    "products": ["Ancient twist káva"],
+    "tracking_id": "63334364",
+    "products": "Ancient twist káva",
     "customer": "Igor Ballard",
     "date": "March 16",
     "amount": "11.0",
@@ -36,8 +36,8 @@
     "status": "Shipped"
   },
   {
-    "trackingID": "83642920",
-    "products": ["Beaneriffic"],
+    "tracking_id": "83642920",
+    "products": "Beaneriffic",
     "customer": "Mac Povey",
     "date": "March 16",
     "amount": "8.5",
@@ -45,8 +45,8 @@
     "status": "Cancelled"
   },
   {
-    "trackingID": "30386853",
-    "products": ["Lava Coffee", "Lava Coffee"],
+    "tracking_id": "30386853",
+    "products": "Lava Coffee-Lava Coffee",
     "customer": "Chay Baird",
     "date": "March 16",
     "amount": "30.0",
@@ -54,8 +54,8 @@
     "status": "pending"
   },
   {
-    "trackingID": "13567552",
-    "products": ["Ancient twist káva", "VintageBee Coffee"],
+    "tracking_id": "13567552",
+    "products": "Ancient twist káva-VintageBee Coffee",
     "customer": "Ella-Mai Armstrong",
     "date": "March 16",
     "amount": "25.6",
@@ -63,8 +63,8 @@
     "status": "pending"
   },
   {
-    "trackingID": "30386853",
-    "products": ["Proper Pour"],
+    "tracking_id": "30386853",
+    "products": "Proper Pour",
     "customer": "Steve Rodgers",
     "date": "March 15",
     "amount": "17.0",
@@ -72,8 +72,8 @@
     "status": "Shipped"
   },
   {
-    "trackingID": "68876869",
-    "products": ["Awaken Coffee"],
+    "tracking_id": "68876869",
+    "products": "Awaken Coffee",
     "customer": "Jai Ellis",
     "date": "March 14",
     "amount": "24.5",
@@ -81,8 +81,8 @@
     "status": "Delivered"
   },
     {
-      "trackingID": "61491984",
-      "products": ["Egocoast Latte"],
+      "tracking_id": "61491984",
+      "products": "Egocoast Latte",
       "customer": "Marilyn Dale",
       "date": "March 14",
       "amount": "20.0",
