@@ -1,0 +1,82 @@
+[
+  {
+    "id": "9ba362eb-d3b9-41a8-b79e-4dac653e65de",
+    "productName": "Lava Coffee",
+    "productID": "12471997",
+    "stock": "2345",
+    "price":"12.50",
+    "sales": "43"
+  },
+  {
+    "id": "f6cf7932-aa82-4e5a-a46c-414deebbe279",
+    "productName": "Egocoast Latte",
+    "productID": "79143639",
+    "stock": "2436",
+    "price": "15.00",
+    "sales": "28"
+  },
+  {
+    "id": "fd6501db-1df4-4260-abaa-8fa61deb90c2",
+    "productName": "VintageBee Coffee",
+    "productID": "93712033",
+    "stock": "1354",
+    "price": "9.60",
+    "sales": "42"
+  },
+  {
+    "id": "548d6f4f-100e-44bc-a49f-495743bc8d17",
+    "productName": "Ancient twist káva",
+    "productID": "74781676",
+    "stock": "1923",
+    "price": "11.00",
+    "sales": "31"
+  },
+  {
+    "id": "a4fab96e-07af-4486-bf18-0facef75e6aa ",
+    "productName": "Beaneriffic",
+    "productID": "19870465",
+    "stock": "1344",
+    "price": "8.50",
+    "sales": "32"
+  },
+  {
+    "id": "127fa07a-30a4-4fe2-9bc5-a6611a096f60",
+    "productName": "Urban Zest Cafe",
+    "productID": "27908167",
+    "stock": "1689",
+    "price": "8.50",
+    "sales": "16"
+  },
+  {
+    "id": "8fe56938-d6d8-4147-944b-b39f653d6d0b",
+    "productName": "Steamy Indulgences Tearoom",
+    "productID": "29939725",
+    "stock": "6685",
+    "price": "23.0",
+    "sales": "59"
+  },
+  {
+    "id": "836b6a65-2d75-4653-afb9-51c503a59bae",
+    "productName": "Proper Pour",
+    "productID": "87889741",
+    "stock": "1692",
+    "price": "17.00",
+    "sales": "69"
+  },
+  {
+    "id": "afeea147-7e95-4249-aad7-7bd49644513a",
+    "productName": "Awaken Coffee",
+    "productID": "16601086",
+    "stock": "3790",
+    "price": "24.50",
+    "sales": "91"
+  },
+  {
+    "id": "8fae3157-29bf-480c-b48a-fac6d968f644",
+    "productName": "Top Of The Mug",
+    "productID": "61838840",
+    "stock": "6854",
+    "price": "25.00",
+    "sales": "28"
+  }
+]
