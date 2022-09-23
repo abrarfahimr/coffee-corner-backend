@@ -51,7 +51,7 @@
     "date": "March 16",
     "amount": "30.0",
     "payment": "Visa",
-    "status": "pending"
+    "status": "Pending"
   },
   {
     "tracking_id": "13567552",
@@ -60,7 +60,7 @@
     "date": "March 16",
     "amount": "25.6",
     "payment": "Mastercard",
-    "status": "pending"
+    "status": "Pending"
   },
   {
     "tracking_id": "30386853",
