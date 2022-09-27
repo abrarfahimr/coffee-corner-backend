@@ -1,4 +1,5 @@
-exports.up = function(knex) {
+exports.up = function (knex) {
+  // create table for products data
   return knex.schema
     .createTable('products', (table) => {
       table.uuid('id').primary().defaultTo(knex.raw('(UUID())'));
@@ -19,6 +20,7 @@ exports.up = function(knex) {
 
       table.timestamp('updated_at').defaultTo(knex.fn.now());
     })
+    // create table for transaction data
     .createTable('transactions', (table) => {
       table.string('tracking_id').primary();
       table.string('products').notNullable();
