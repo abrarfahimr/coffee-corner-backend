@@ -18,4 +18,52 @@ Frontend: HTML, CSS, Javascript, React
 Backend: Node.js, Express, Knex.js
 Database: MySQL, MySQL Workbench
 Others: Auth0, Recharts, Heroku, Postman
-### Installing
+### Installation
+1. Clone this repository:
+
+```
+git clone git@github.com:abrarfahimr/coffee-corner-backend.git
+```
+2. In your mySQL workbench create a new schema, you can call it whatever you want. I would suggest calling it “CoffeeCornerDB.”
+
+3. Create a .env file inside the client directory and write the following code:
+```
+PORT=USER_PORT
+DB_HOST= 127.0.0.1
+DB_USER= USER_DB
+DB_PASSWORD= USER_PASSWORD 
+DB_DATABASE= USER_DATABASE
+```
+Note: The DB_USER. DB_PASSWORD must match the username and password for your mySQL account. The DB_DATABASE is the name of the database you set in the previous step. and the PORT can be set to whatever you want like 8080 or 5000.
+
+4. In the terminal write the following.
+
+To install node modules
+```
+npm install
+```
+
+Migrate to the lastest database:
+```
+npm run migrate
+```
+
+Seed the default data:
+```
+npm run seed
+```
+
+5. Start up the database:
+```
+npm start
+```
+
+### Endpoints
+There are three main endpoints for the backend server. Each end point as a id associated with it.
+
+* The endpoint /products will lead to all the list of products and information about them.
+* /products/:id where :id is the id of each product object in the array. This will lead to details of  individual products.
+* /transactions lead to all the list of transactions and information about them.
+
+### Authors
+Abrar Fahim Rahman: [Github](https://github.com/abrarfahimr)
