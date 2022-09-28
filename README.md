@@ -13,4 +13,9 @@ While working I came into some problems and areas of opportunity that I want to 
 ### Dependencies
 Node.js, Express, Knex.js, mysql, cors, dotenv, nodemon, uuid
 
+### Tech Stack
+Frontend: HTML, CSS, Javascript, React
+Backend: Node.js, Express, Knex.js
+Database: MySQL, MySQL Workbench
+Others: Auth0, Recharts, Heroku, Postman
 ### Installing
